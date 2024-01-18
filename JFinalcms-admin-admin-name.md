@@ -2,7 +2,7 @@
 
 version: v5.0.0
 
- A SQL injection vulnerability exists in the /admin/admin interface.
+ A SQL injection vulnerability exists in the /admin/admin interface.  
 A SQL injection vulnerability exists in JFinalcms via  /admin/admin name parameter, which can be directly concatenated into an SQL statement from the frontend.
 
 ![image-20240118224724189](img/image-20240118224724189.png)
